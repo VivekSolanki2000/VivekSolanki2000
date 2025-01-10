@@ -5,10 +5,10 @@
 ###
  
 <div align="center">
-<a href="https://www.linkedin.com/in/deep-padmani-6a53b1132/" target="_blank">
+<a href="https://www.linkedin.com/in/vsolanki22/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
-<a href="mailto:deep.padmani98.2021@gmail.com" target="_blank">
+<a href="mailto:viveksn21@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </a>
 </div>
@@ -16,7 +16,7 @@
 ###
  
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=deeppadmani.deeppadmani&"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=VivekSolanki2000.VivekSolanki2000&"  />
 </div>
  
 ###
@@ -29,7 +29,7 @@
  
 ###
  
-<p align="left">I am a highly qualified and accomplished professional with a track record of success in the product-based software and technology sector. At this time, I am looking to further my expertise by pursuing a Master of Science in Computer Engineering from The University of Texas at Dallas.<br><br>I'm enthusiastic to use my knowledge of cutting-edge technologies, such as machine learning, artificial intelligence, embedded software development, and the Internet of Things, to lead effective research and development activities in the software sector. I am sure that I can significantly contribute to the development and success of any firm by utilizing my technical expertise and capacity to work well with cross-functional teams.</p>
+<p align="left"><br><br></p>
  
 ###
  
@@ -42,19 +42,11 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 <img width="12" />
@@ -66,11 +58,7 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
 <img width="12" />
